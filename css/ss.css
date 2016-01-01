@@ -55,7 +55,6 @@ input:focus, textarea:focus {
 h1, h2, h3, h4, h5, h6 { font-weight: 300; padding-bottom: 7px; }
 table {
   margin: 1px;
-  width: 100%;
   border-collapse: collapse;
 }
 table thead {
